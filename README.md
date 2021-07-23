@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Diegodpaul
 - 👀 I’m interested in Computer Science, data analytics, and machine learning.
-- 🌱 I’m currently learning Google Data Analysts' Certificate.
+- 🌱 I’m currently enrolled into the Google Data Analysts' Certificate program.
 - 💞️ I’m looking to collaborate on data analytics ralated projects, and become part of the github community.
 - 📫 How to reach me diegordg02@icloud.com
 
